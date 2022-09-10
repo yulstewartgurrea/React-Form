@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Interactive React form
 
 This project is all about interactive forms.
 
@@ -7,7 +7,7 @@ This project is all about interactive forms.
 This application requires node version v18.8.0
 
 ```sh
-cd root of project
+cd react-form
 npm install
 ```
 
